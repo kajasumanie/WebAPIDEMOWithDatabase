@@ -1,0 +1,11 @@
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\bin\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.deps.json
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\bin\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.runtimeconfig.json
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\bin\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.runtimeconfig.dev.json
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\bin\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.dll
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\bin\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.pdb
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\obj\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.csprojResolveAssemblyReference.cache
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\obj\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.csproj.CoreCompileInputs.cache
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\obj\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.AssemblyInfoInputs.cache
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\obj\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.AssemblyInfo.cs
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\obj\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.dll
+G:\WebAPIDEMOWithDatabase\WebAPIDEMOWithDatabase\obj\Debug\netcoreapp2.0\WebAPIDEMOWithDatabase.pdb
